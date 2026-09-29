@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #222;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 16px;
+    background-color: #eeeeee;
+    text-align: center;
+}
